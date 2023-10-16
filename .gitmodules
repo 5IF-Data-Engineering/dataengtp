@@ -1,3 +1,6 @@
 [submodule "tp-airflow"]
 	path = tp-airflow
 	url = https://github.com/minhngo248/tp-airflow.git
+[submodule "tp-mongodb"]
+	path = tp-mongodb
+	url = https://github.com/minhngo248/tp-mongodb.git
