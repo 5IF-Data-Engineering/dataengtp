@@ -4,3 +4,6 @@
 [submodule "tp-mongodb"]
 	path = tp-mongodb
 	url = https://github.com/minhngo248/tp-mongodb.git
+[submodule "tp-redis"]
+	path = tp-redis
+	url = https://github.com/minhngo248/tp-redis.git
