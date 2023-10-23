@@ -1,9 +1,12 @@
-[submodule "tp-airflow"]
+[submodule "./tp-airflow"]
 	path = tp-airflow
-	url = https://github.com/minhngo248/tp-airflow.git
-[submodule "tp-mongodb"]
+	url = https://github.com/5IF-Data-Engineering/tp-airflow.git
+[submodule "./tp-mongodb"]
 	path = tp-mongodb
-	url = https://github.com/minhngo248/tp-mongodb.git
-[submodule "tp-redis"]
+	url = https://github.com/5IF-Data-Engineering/tp-mongodb.git
+[submodule "./tp-redis"]
 	path = tp-redis
-	url = https://github.com/minhngo248/tp-redis.git
+	url = https://github.com/5IF-Data-Engineering/tp-redis.git
+[submodule "./tp-neo4j"]
+	path = tp-neo4j
+	url = https://github.com/5IF-Data-Engineering/tp-neo4j.git
